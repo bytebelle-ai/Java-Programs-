@@ -32,7 +32,7 @@ GUI Framework: Swing (javax.swir
 Event Handling: ActionListener
 Components: JFrame, JTextField, JButton
 
-#3) Displaying the selected fields in Details after submit button is clicked
+# 3) Displaying the selected fields in Details after submit button is clicked
 
 #Features:
 * A simple GUI form using Java Swing that collects user information like name, gender, interests, and favorite place
